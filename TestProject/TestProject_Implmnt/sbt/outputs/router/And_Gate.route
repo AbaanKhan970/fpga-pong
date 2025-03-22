@@ -1,0 +1,82 @@
+* ******************************************************************************
+
+* iCEcube Router
+
+* Version:            2020.12.27943
+
+* Build Date:         Dec  9 2020 17:44:35
+
+* File Generated:     Mar 22 2025 17:26:30
+
+* Purpose:            Detailed routing info for each net
+
+* Copyright (C) 2006-2010 by Lattice Semiconductor Corp. All rights reserved.
+
+* ******************************************************************************
+
+Net : i_Switch_1_c
+T_13_4_wire_io_cluster/io_1/D_IN_0
+T_12_5_lc_trk_g0_2
+T_12_5_wire_logic_cluster/lc_0/in_0
+
+T_13_4_wire_io_cluster/io_1/D_IN_0
+T_12_5_lc_trk_g0_2
+T_12_5_wire_logic_cluster/lc_1/in_3
+
+End 
+
+Net : i_Switch_2_c
+T_13_3_wire_io_cluster/io_1/D_IN_0
+T_13_3_span4_horz_4
+T_12_3_sp4_v_t_41
+T_12_5_lc_trk_g3_4
+T_12_5_wire_logic_cluster/lc_0/in_3
+
+T_13_3_wire_io_cluster/io_1/D_IN_0
+T_13_3_span4_horz_4
+T_12_3_sp4_v_t_41
+T_12_5_lc_trk_g3_4
+T_12_5_input_2_1
+T_12_5_wire_logic_cluster/lc_1/in_2
+
+End 
+
+Net : i_Switch_3_c
+T_13_6_wire_io_cluster/io_0/D_IN_0
+T_12_5_lc_trk_g2_4
+T_12_5_input_2_0
+T_12_5_wire_logic_cluster/lc_0/in_2
+
+T_13_6_wire_io_cluster/io_0/D_IN_0
+T_12_5_lc_trk_g2_4
+T_12_5_wire_logic_cluster/lc_1/in_1
+
+End 
+
+Net : i_Switch_4_c
+T_13_4_wire_io_cluster/io_0/D_IN_0
+T_12_5_lc_trk_g1_4
+T_12_5_wire_logic_cluster/lc_0/in_1
+
+T_13_4_wire_io_cluster/io_0/D_IN_0
+T_12_5_lc_trk_g1_4
+T_12_5_wire_logic_cluster/lc_1/in_0
+
+End 
+
+Net : o_LED_1_c
+T_12_5_wire_logic_cluster/lc_0/out
+T_13_6_lc_trk_g1_0
+T_13_6_wire_io_cluster/io_1/D_OUT_0
+
+End 
+
+Net : o_LED_2_obuf_RNOZ0
+T_12_5_wire_logic_cluster/lc_1/out
+T_12_3_sp4_v_t_47
+T_13_7_span4_horz_4
+T_13_7_lc_trk_g0_4
+T_13_7_wire_io_cluster/io_0/D_OUT_0
+
+End 
+

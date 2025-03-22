@@ -1,0 +1,20 @@
+---------------------------------------
+Resource Usage Report for And_Gate 
+
+Mapping to part: ice40hx1kvq100
+Cell usage:
+SB_LUT4         2 uses
+
+I/O ports: 6
+I/O primitives: 6
+SB_IO          6 uses
+
+I/O Register bits:                  0
+Register bits not including I/Os:   0 (0%)
+
+@S |Mapping Summary:
+Total  LUTs: 2 (0%)
+
+Distribution of All Consumed LUTs = LUT4 
+Distribution of All Consumed Luts 2 = 2 
+
