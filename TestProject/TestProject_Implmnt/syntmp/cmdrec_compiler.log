@@ -1,8 +1,0 @@
-C:\lscc\iCEcube2.2020.12\synpbase\bin64\c_hdl.exe  -osyn  "C:\Users\HP\Desktop\Maceng\FPGA PONG\Pong-in-FPGA\TestProject\TestProject_Implmnt\synwork\TestProject_comp.srs"  -hdllog  "C:\Users\HP\Desktop\Maceng\FPGA PONG\Pong-in-FPGA\TestProject\TestProject_Implmnt\synlog\TestProject_compiler.srr"  -encrypt  -mp  4  -verification_mode 0  -verilog  -prodtype  synplify_pro  -primux -fixsmult -infer_seqShift -ice -sdff_counter -nram -divnmod -nostructver   -I "C:\Users\HP\Desktop\Maceng\FPGA PONG\Pong-in-FPGA\TestProject\"  -I C:\lscc\iCEcube2.2020.12\synpbase\lib   -v2001  -devicelib  C:\lscc\iCEcube2.2020.12\synpbase\lib\generic\sb_ice40.v  -encrypt  -pro  -dmgen  "C:\Users\HP\Desktop\Maceng\FPGA PONG\Pong-in-FPGA\TestProject\TestProject_Implmnt\dm"  -ui -fid2 -ram -sharing on -ll 2000 -autosm  -lib work "C:\Users\HP\Desktop\Maceng\FPGA PONG\Pong-in-FPGA\LUT\And_Gate.v" 
-rc:0 success:1 runtime:1
-file:C:\Users\HP\Desktop\Maceng\FPGA PONG\Pong-in-FPGA\TestProject\TestProject_Implmnt\synwork\TestProject_comp.srs|io:o|time:1742678762|size:1716|exec:0
-file:C:\Users\HP\Desktop\Maceng\FPGA PONG\Pong-in-FPGA\TestProject\TestProject_Implmnt\synlog\TestProject_compiler.srr|io:o|time:1742678762|size:3041|exec:0
-file:C:\lscc\iCEcube2.2020.12\synpbase\lib\generic\sb_ice40.v|io:i|time:1742453563|size:224837|exec:0
-file:C:\Users\HP\Desktop\Maceng\FPGA PONG\Pong-in-FPGA\LUT\And_Gate.v|io:i|time:1742678758|size:663|exec:0
-file:C:\lscc\iCEcube2.2020.12\synpbase\bin\c_hdl.exe|io:i|time:1742453560|size:1338368|exec:1
-file:C:\lscc\iCEcube2.2020.12\synpbase\bin64\c_hdl.exe|io:i|time:1742453561|size:1754112|exec:1
